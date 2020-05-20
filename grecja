@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="utf-8">
+        <title> Grecja </title>
+        <style>
+        h1{ color: white;
+            text-align:center;
+            }
+        p{text-align:center;
+          color: black;
+           }
+        
+           
+            
+            
+        </style>
+    </head>
+    
+
+    
+    <body BGCOLOR="lightblue">
+    
+    
+      
+       <h1> Grecja </h1>     
+  
+       <p>  Grecja i okoliczne wyspy to jedno z moich ulubionych miejsc na Zemi. Jest tam dostaecznie ciepło, ale nie za ciepło. Nie ma żadnego oceanu, za którym nie przepadam. A najbrdziej lubie taki charakterystyczny zapach. </p>
+       
+          <hr size="3" color="black">
+          
+          <h1> Byłam już parę razy w Grecji i mogę powiedzieć, która wyspa mi sie najbardziej podobała oraz co warto zobaczyć:</h1>
+          <h2> Najbardziej podobała mi się wyspa Skopelos, na której nagrywano film "Mamma mia!".Co warto zobaczyć?</h2>
+          <ol>
+              <li> Najlepszym przystankiem podczas obiazdówki była kapliczka znajdująca się na wysokiej skale, która również została uwzględniona w filmie. Bardzo przyjemne miejsce i równie urokliwy był widok na morze oraz na wzniesienia występujące na wyspie </li>
+            
+              <li> Bardzo podobała mi się również plaża Kastani Beach Skopelos   </li>
+               <li>Sąsiednia wyspa Allonisos </li>
+               <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Alonissos3.JPG" width="500">
+                <li>Warto również popłynąć w rejs statkiem wycieczkowym, podczas którego przewidziane jest nurkowanie w morzu na dużej głębokości</li>
+          </ol>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Alyosha_is_certified.jpg/800px-Alyosha_is_certified.jpg" width="500">
+         </body>
+</html>
+        
